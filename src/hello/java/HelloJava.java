@@ -16,6 +16,7 @@ public class HelloJava {
      */
     public static void main(String[] args) {
         System.out.println("Aplikasi Java");
+        System.out.println("END");
         // TODO code application logic here
     }
     
